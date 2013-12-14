@@ -1,5 +1,5 @@
 Managing users
-===============
+--------------
 `sudo adduser <username>`
 `sudo userdel <username>`
 `sudo passwd <username>`
