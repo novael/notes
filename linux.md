@@ -7,3 +7,5 @@ Managing users
 Display users
 -------------
 `/etc/passwd`
+
+tags: linux, users
