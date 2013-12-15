@@ -24,8 +24,8 @@ Changing file permissions
 
 Managing processes
 ------------------
-`top` View a list of processes
-`kill <pid>` Kill the given process by id
+`top` View a list of processes  
+`kill <pid>` Kill the given process by id  
 `killall <command>` Kill all of the processes for the given command name
 
 tags: linux, users, owner, group, permissions, processes
