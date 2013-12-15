@@ -22,4 +22,10 @@ Changing file permissions
 -------------------------
 `sudo chmod [g|o|u|a][+|-]<permission> <file>`
 
-tags: linux, users, owner, group, permissions
+Managing processes
+------------------
+`top` View a list of processes
+`kill <pid>` Kill the given process by id
+`killall <command>` Kill all of the processes for the given command name
+
+tags: linux, users, owner, group, permissions, processes
