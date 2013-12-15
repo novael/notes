@@ -8,4 +8,18 @@ Display users
 -------------
 `/etc/passwd`
 
-tags: linux, users
+Switching to super user
+-----------------------
+`sudo su` CTRL+D to quit
+
+Changing file ownership and group assignment
+---------------------------------------------
+* `sudo chown <owner> <file>` Change ownership to owner of the given file
+* `sudo chgrp <group> <file>` Change ownership to group of the given file
+* `sudo chown <owner>:<group> <file>` Change ownership to owner/group of the given file
+
+Changing file permissions
+-------------------------
+`sudo chmod [g|o|u|a][+|-]<permission> <file>`
+
+tags: linux, users, owner, group, permissions
