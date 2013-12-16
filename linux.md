@@ -31,7 +31,7 @@ Managing processes
 File compression and archiving
 ------------------------------
 `tar -cvz|jf <filename>` Create a tar file with gzip(z), or bzip(j) compression  
-`tar -xvz|jf <filename>` Extract a tar file
+`tar -xvz|jf <filename>` Extract a tar file  
 `tar -tzf <filename>` List contents of tar file
 
 tags: linux, users, owner, group, permissions, processes, tar 
