@@ -1,3 +1,3 @@
 Setting up local Git server
 ---------------------------
-[http://net.tutsplus.com/tutorials/php/solid-part-1-the-single-responsibility-principle/]
+[http://blog.goosoftware.co.uk/2012/02/07/quick-git-server/]
