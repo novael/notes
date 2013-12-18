@@ -21,3 +21,5 @@ Set up a remote repo and do initial push
 `git commit -a -m "Commit message"`  
 `git remote add origin git@<server>:<project>.git`  
 `git push origin master`
+
+tags: git, remote, alias, repo
