@@ -10,9 +10,9 @@ Set up a remote repo and do initial push
 ----------------------------------------
 **On remote server**  
 `ssh git@<server>`  
-`mkdir <project>.git`
-`cd <project>.git`
-`git init --bare`
+`mkdir <project>.git`  
+`cd <project>.git`   
+`git init --bare`  
 
 **On local machine**   
 `cd <project>`   
