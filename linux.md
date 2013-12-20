@@ -47,7 +47,6 @@ iface eth0 inet static
     network 192.168.A.0
     gateway 192.168.A.1
 ```
-
 3. Save the file and restart the OS
 
 
