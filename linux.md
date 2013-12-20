@@ -34,4 +34,16 @@ File compression and archiving
 `tar -xvz|jf <filename>` Extract a tar file  
 `tar -tzf <filename>` List contents of tar file
 
-tags: linux, users, owner, group, permissions, processes, tar 
+Setting static ip
+-----------------
+1. Create a backup file of /etc/network/interfaces
+2. Modify /etc/network/interfaces as follows:
+`auto eth0`  
+`iface eth0 inet static`  
+    `address 192.168.A.N`  
+    `netmask 255.255.255.0`  
+    `broadcast 192.168.A.255`  
+    `network 192.168.A.0`  
+    `gateway 192.168.A.1`  
+3. Save the file and restart the OS  
+tags: linux, users, owner, group, permissions, processes, tar, static ip
