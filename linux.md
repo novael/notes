@@ -36,8 +36,8 @@ File compression and archiving
 
 Setting static ip
 -----------------
-1. Create backup of **/etc/network/interfaces**
-2. Modify the file as follows:  
+* Create backup of **/etc/network/interfaces**
+* Modify the file as follows:  
 
 ```
 iface eth0 inet static
@@ -47,7 +47,7 @@ iface eth0 inet static
     network 192.168.A.0
     gateway 192.168.A.1
 ```
-3. Save the file and restart the OS
+* Save the file and restart the OS
 
 
 tags: linux, users, owner, group, permissions, processes, tar, static ip 
