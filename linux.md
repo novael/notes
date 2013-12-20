@@ -37,7 +37,7 @@ File compression and archiving
 Setting static ip
 -----------------
 1. Create backup of **/etc/network/interfaces**
-2. Modify the file as follows:
+2. Modify the file as follows:  
     iface eth0 inet static
         address 192.168.A.N
         netmask 255.255.255.0
