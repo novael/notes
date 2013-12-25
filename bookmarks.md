@@ -5,3 +5,5 @@ tags: learning, brain
 [Single Responsibility Principle](http://net.tutsplus.com/tutorials/php/solid-part-1-the-single-responsibility-principle/)
 
 tags: solid, single responsiblity
+
+[Java Database Query Library - JOOQ](http://www.jooq.org/)
