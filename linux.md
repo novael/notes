@@ -1,8 +1,8 @@
 Managing users
 --------------
-`sudo adduser <username>`
-`sudo userdel <username>`
-`sudo passwd <username>`
+`sudo adduser <username>`  
+`sudo userdel <username>`  
+`sudo passwd <username>`  
 
 Display users
 -------------
