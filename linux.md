@@ -27,6 +27,7 @@ Managing processes
 `top` View a list of processes  
 `kill <pid>` Kill the given process by id  
 `killall <command>` Kill all of the processes for the given command name
+`lsof -n -i4TCP:$PORT | grep LISTEN` Find the process running for the given $PORT
 
 File compression and archiving
 ------------------------------
