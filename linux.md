@@ -50,5 +50,9 @@ iface eth0 inet static
 ```
 * Save the file and restart the OS
 
+Starting a simple HTTP server
+-----------------------------
+`python -m SimpleHTTPServer <port>`
+
 
 tags: linux, users, owner, group, permissions, processes, tar, static ip 
