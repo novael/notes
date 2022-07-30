@@ -22,4 +22,8 @@ Set up a remote repo and do initial push
 `git remote add origin git@<server>:<project>.git`  
 `git push origin master`
 
+Git commands
+-----------------------------------------
+`git checkout -b <branchname>` **Create and switch to new branch**
+
 tags: git, remote, alias, repo
