@@ -24,6 +24,6 @@ Set up a remote repo and do initial push
 
 Git commands
 -----------------------------------------
-`git checkout -b <branchname>` **Create and switch to new branch**
+`git checkout -b <branchname>` *Create and switch to new branch*
 
 tags: git, remote, alias, repo
