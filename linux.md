@@ -35,6 +35,10 @@ File compression and archiving
 `tar -xvz|jf <filename>` Extract a tar file  
 `tar -tzf <filename>` List contents of tar file
 
+Downloading
+-----------
+`curl <url>.tgz -o filename.tgz` Download a tar file and provide a destination filename
+
 Setting static ip
 -----------------
 * Create backup of **/etc/network/interfaces**
